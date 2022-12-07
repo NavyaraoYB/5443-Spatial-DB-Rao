@@ -1,0 +1,8 @@
+{
+    "dbname":"BattleShip",
+    "user":"postgres",
+    "password":"Gangster30",
+    "port":"5432",
+    "schema":"public",
+    "host":"localhost"
+}

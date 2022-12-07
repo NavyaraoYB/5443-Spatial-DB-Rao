@@ -1,0 +1,10 @@
+import psycopg2
+from psycopg2 import Error
+
+conn = psycopg2.connect(
+    host="localhost",
+    database="BattleShip",
+    user="postgres",
+    password="Gangster30")
+
+

@@ -1,0 +1,4 @@
+CREATE TABLE switzerland_new
+
+(name varchar,osm_type varchar,class varchar,type varchar, 	lon	varchar,lat varchar,	place_rank varchar, importance varchar,	street	varchar,city varchar,	county varchar, state varchar,country	varchar, country_code	varchar, display_name	varchar,west varchar,	south	varchar,east	varchar,north	varchar,wikidata varchar,wikipedia varchar);
+
